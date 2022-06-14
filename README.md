@@ -40,10 +40,6 @@ public class TransformService {
         return gsonComponent.getGson().toJson(byteDeviceBean,ByteDeviceBean.class);
     }
 
-    public String transformToStringDeviceJson(String byteJson){
-
-        return null;
-    }
     
     ...
 }
