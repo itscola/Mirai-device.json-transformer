@@ -3,7 +3,7 @@
 
 此项目基于我开发的 Siesta 开发框架 : 
 
-[![](https://img.shields.io/badge/Siesta-framework-red.svg)]([https://namemc.com/profile/White_cola.1](https://github.com/itscola/Siesta-framework))
+[![](https://img.shields.io/badge/Siesta-framework-red.svg)](https://github.com/itscola/Siesta-framework)
 
 # 演示:
 
