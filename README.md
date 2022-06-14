@@ -3,6 +3,8 @@ To transform device.json from Mirai-Console to Mirai-Core or contrary.
 
 The project based on Siesta-framework made by me : https://github.com/itscola/Siesta-framework
 
+[中文 README](README-ZHCN.md)
+
 # demo:
 
 ```java
